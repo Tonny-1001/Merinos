@@ -1,3 +1,6 @@
+# Installing theme:
+You can just copy all merinos files to `/opt/www/roundcubemail/skins/merinos` (create merinos dir first)
+
 # update config.inc.php:
 1. go to `/opt/www/roundcubemail/config/`
 2. open `config.inc.php`
@@ -13,3 +16,4 @@ enter in comand line:
 <small>This theme is based on Elastic roundcube theme whose author is Aleksander Machniak.</small>
 
 For more info on how skins work go to: https://github.com/roundcube/roundcubemail/wiki/Skins
+
